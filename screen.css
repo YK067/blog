@@ -1,4 +1,27 @@
-/* Add screen styles below */
-a.active {
-    font-weight: bold;
+body{
+    background:#2F41E5;
+    margin:0 auto;
+
+}
+.title{
+    font-size:30px;
+    font-family:arial;
+    margin:0 auto;
+    color:#F0F0F0;
+    padding:20px;
+}
+.homepage{
+    background:#EFEA78;
+    color:#000000;
+    height:85px;
+    font-size:40px;
+
+}
+.blog{
+    padding:20px;
+}
+img{
+    padding:20px;
+    height:300px;
+    width:500px;
 }
